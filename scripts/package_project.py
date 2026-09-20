@@ -5,7 +5,7 @@ from bearing_diagnosis.config import ROOT
 p=argparse.ArgumentParser();p.add_argument('--output',default=str(ROOT.parent/'bearing-fault-diagnosis.zip'));args=p.parse_args()
 output=Path(args.output);output.parent.mkdir(parents=True,exist_ok=True)
 include_dirs={'src','scripts','app','tests','configs','docs','notebooks','.streamlit','.github'}
-include_files={'README.md','requirements.txt','requirements-lock.txt','pyproject.toml','Dockerfile','.dockerignore','.gitignore'}
+include_files={'README.md','README.en.md','requirements.txt','requirements-lock.txt','pyproject.toml','Dockerfile','.dockerignore','.gitignore'}
 paths=[]
 for f in ROOT.rglob('*'):
     if not f.is_file() or f.is_symlink():continue
