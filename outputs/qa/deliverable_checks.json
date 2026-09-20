@@ -1,0 +1,29 @@
+{
+  "figures_decode_checked": 20,
+  "figures": [
+    "outputs/quick-verified/figures/case_failure.png",
+    "outputs/quick-verified/figures/case_success.png",
+    "outputs/quick-verified/figures/confusion_cnn.png",
+    "outputs/quick-verified/figures/confusion_rf.png",
+    "outputs/quick-verified/figures/confusion_rf_without_physics.png",
+    "outputs/quick-verified/figures/feature_importance.png",
+    "outputs/quick-verified/figures/health_index.png",
+    "outputs/quick-verified/figures/robustness.png",
+    "outputs/quick-verified/figures/training_42.png",
+    "outputs/full-verified/figures/case_failure.png",
+    "outputs/full-verified/figures/case_success.png",
+    "outputs/full-verified/figures/confusion_cnn.png",
+    "outputs/full-verified/figures/confusion_rf.png",
+    "outputs/full-verified/figures/confusion_rf_without_physics.png",
+    "outputs/full-verified/figures/feature_importance.png",
+    "outputs/full-verified/figures/health_index.png",
+    "outputs/full-verified/figures/robustness.png",
+    "outputs/full-verified/figures/training_42.png",
+    "outputs/full-verified/figures/training_43.png",
+    "outputs/full-verified/figures/training_44.png"
+  ],
+  "local_document_links": "passed",
+  "technical_text_scan": "passed",
+  "docker": "not run: executable unavailable",
+  "gpu": "not tested"
+}

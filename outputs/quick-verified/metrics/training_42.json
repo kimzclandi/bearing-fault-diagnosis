@@ -1,0 +1,6 @@
+{
+  "seconds": 0.8092248330067378,
+  "epochs": 8,
+  "best_validation_macro_f1": 0.6826632607682543,
+  "train_loss_weighting": "inverse class frequency; val_loss unweighted"
+}

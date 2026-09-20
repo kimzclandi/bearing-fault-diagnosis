@@ -1,0 +1,5 @@
+label,median_index,above_reference_fraction,class
+0,0.8143500340149962,0.75,normal
+1,2.512665112688583,1.0,inner
+2,2.4636629430117347,1.0,outer
+3,2.3139807863294948,1.0,ball

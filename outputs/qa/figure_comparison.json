@@ -1,0 +1,82 @@
+[
+  {
+    "file": "quick-verified/figures/health_index.png",
+    "identical_to_visually_reviewed": true
+  },
+  {
+    "file": "quick-verified/figures/training_42.png",
+    "identical_to_visually_reviewed": true
+  },
+  {
+    "file": "quick-verified/figures/feature_importance.png",
+    "identical_to_visually_reviewed": true
+  },
+  {
+    "file": "quick-verified/figures/robustness.png",
+    "identical_to_visually_reviewed": false
+  },
+  {
+    "file": "quick-verified/figures/confusion_rf_without_physics.png",
+    "identical_to_visually_reviewed": true
+  },
+  {
+    "file": "quick-verified/figures/case_success.png",
+    "identical_to_visually_reviewed": true
+  },
+  {
+    "file": "quick-verified/figures/confusion_cnn.png",
+    "identical_to_visually_reviewed": true
+  },
+  {
+    "file": "quick-verified/figures/case_failure.png",
+    "identical_to_visually_reviewed": true
+  },
+  {
+    "file": "quick-verified/figures/confusion_rf.png",
+    "identical_to_visually_reviewed": true
+  },
+  {
+    "file": "full-verified/figures/health_index.png",
+    "identical_to_visually_reviewed": true
+  },
+  {
+    "file": "full-verified/figures/training_42.png",
+    "identical_to_visually_reviewed": true
+  },
+  {
+    "file": "full-verified/figures/training_43.png",
+    "identical_to_visually_reviewed": true
+  },
+  {
+    "file": "full-verified/figures/training_44.png",
+    "identical_to_visually_reviewed": true
+  },
+  {
+    "file": "full-verified/figures/feature_importance.png",
+    "identical_to_visually_reviewed": true
+  },
+  {
+    "file": "full-verified/figures/robustness.png",
+    "identical_to_visually_reviewed": true
+  },
+  {
+    "file": "full-verified/figures/confusion_rf_without_physics.png",
+    "identical_to_visually_reviewed": true
+  },
+  {
+    "file": "full-verified/figures/case_success.png",
+    "identical_to_visually_reviewed": true
+  },
+  {
+    "file": "full-verified/figures/confusion_cnn.png",
+    "identical_to_visually_reviewed": true
+  },
+  {
+    "file": "full-verified/figures/case_failure.png",
+    "identical_to_visually_reviewed": true
+  },
+  {
+    "file": "full-verified/figures/confusion_rf.png",
+    "identical_to_visually_reviewed": true
+  }
+]

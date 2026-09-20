@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "environment": "new virtual environment; installed from requirements-lock.txt using cached wheels",
+  "project": "extracted source-and-results archive",
+  "data": "same checked original MAT files, shared locally",
+  "test_output": ".....................                                                    [100%]\n21 passed in 30.84s",
+  "stages": {
+    "report": "passed",
+    "health": "passed",
+    "explain": "passed",
+    "robustness": "passed",
+    "baseline": "passed",
+    "deep": "passed",
+    "prepare": "passed",
+    "evaluate": "passed"
+  },
+  "prediction_tables": 57,
+  "predicted_classes": "exact match",
+  "metrics": "byte-identical",
+  "max_probability_difference": 0.0,
+  "scope": "same machine; not independent hardware or a second data acquisition"
+}

@@ -1,0 +1,6 @@
+,accuracy,accuracy,f1_macro,f1_macro
+,mean,std,mean,std
+model,,,,
+cnn,0.7875,,0.7809576023391813,
+rf,0.8958333333333334,,0.911866831114994,
+rf_without_physics,0.8583333333333333,,0.8808641975308642,

@@ -1,0 +1,18 @@
+[
+  {
+    "earlier": "quick-final",
+    "final": "quick-verified",
+    "rf_trees_identical": 200,
+    "cnn_states_identical": 1,
+    "source_fingerprints_match": true,
+    "only_numerical_change": "ordered single-thread RF probability accumulation"
+  },
+  {
+    "earlier": "full-final",
+    "final": "full-verified",
+    "rf_trees_identical": 1800,
+    "cnn_states_identical": 3,
+    "source_fingerprints_match": true,
+    "only_numerical_change": "ordered single-thread RF probability accumulation"
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "created_utc": "2026-09-20T19:13:59.368480+00:00",
+  "python": "3.12.13 (main, Aug  7 2026, 02:15:23) [Clang 22.1.3 ]",
+  "platform": "macOS-27.0-arm64-arm-64bit",
+  "command": [
+    "outputs/bearing-fault-diagnosis/scripts/run_all.py",
+    "--config",
+    "configs/quick.yaml",
+    "--run-dir",
+    "outputs/quick-verified"
+  ],
+  "data_kind": "real_cwru",
+  "packages": {
+    "numpy": "2.5.3",
+    "scipy": "1.18.1",
+    "pandas": "3.0.6",
+    "scikit-learn": "1.9.1",
+    "torch": "2.14.0",
+    "matplotlib": "3.11.2",
+    "streamlit": "1.64.0"
+  },
+  "manifest_sha256": "1451715775cf8c67ba0eabcb9b32b0bbb40009fe57d87c37994cd1808bca8546",
+  "source_sha256": {
+    "src/bearing_diagnosis/config.py": "fb6fb53263bda56e5871942ed1bd4d684ff890eab8ab926420f15e1e7ebf9763",
+    "src/bearing_diagnosis/signal.py": "b118007704caa8c7b3d1e8a861bcbd4f71dd14b22bf0ddabd122ea8a6a1b7a7d",
+    "src/bearing_diagnosis/models.py": "950eae8da8739e2597b21b4246fced9b5cc2c0ce49db9a499230b4721b15715f",
+    "src/bearing_diagnosis/health.py": "7623ded4ae4ce14f12d748069301dbb32e43bf6c2f22861874db59a7f5144e5d",
+    "src/bearing_diagnosis/evaluation.py": "016518ff63626a5a8613e827ab51742a1c4cb8261d3455bfa9cdda2a73a56aed",
+    "src/bearing_diagnosis/__init__.py": "91447944015cec709e8aa7655f7e9d64e1e4508e7023a57fe3746911c0fc6fed",
+    "src/bearing_diagnosis/features.py": "45ee19ffead30d13c9f4cff57f28f7c0fab056a9769567a834780009cfa14767",
+    "src/bearing_diagnosis/physics.py": "b1969ec9a8d196045f3471fc08edd7230aec7c708ead6ad0d122ee5adb3c7a52",
+    "src/bearing_diagnosis/cli.py": "86b214ce2fe387cf54ef1eb0d61a9dba4432936c13f54b9247ea76b3a85f245b",
+    "src/bearing_diagnosis/explain.py": "4eabf46bf19d059ce62dc285cc887c46e13f894cf2956aa3fb188dbeb572116e",
+    "src/bearing_diagnosis/report.py": "43f3051b63c3bd39e820134d81c530980562defaeb89a350975626e9ddc1afd4",
+    "src/bearing_diagnosis/training.py": "d35ccc72e9c88990770848236989d62b8657d313e55dd47e29bceff11b181951",
+    "src/bearing_diagnosis/data.py": "f2bed72150ea77acca88527266e45e7dd68cac732464c72bd08777d74f210cc4"
+  }
+}

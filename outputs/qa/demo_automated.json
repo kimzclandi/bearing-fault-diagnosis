@@ -1,0 +1,7 @@
+{
+  "local_example": "passed",
+  "upload_empty_state": "passed",
+  "numeric_npy": "passed",
+  "numeric_csv": "passed",
+  "nonfinite_csv": "passed"
+}

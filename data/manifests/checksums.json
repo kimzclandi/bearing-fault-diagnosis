@@ -1,0 +1,242 @@
+[
+  {
+    "source_id": "97",
+    "sha256": "16bf48babcf1c7ac224bc1a81cd9eafdb27e42d5cf559761907e067e8eeadf3c",
+    "bytes": 3903344,
+    "url": "https://engineering.case.edu/sites/default/files/97.mat"
+  },
+  {
+    "source_id": "98",
+    "sha256": "37e6612c05e65c415dcfa2ab27a3fda648a5863160fa898b884a14743044e045",
+    "bytes": 7742720,
+    "url": "https://engineering.case.edu/sites/default/files/98.mat"
+  },
+  {
+    "source_id": "99",
+    "sha256": "4b97e6b5361f45efb6951dc3b1aebcdb3b89cb69d0f96d6f5c297dd9f45eee75",
+    "bytes": 15503928,
+    "url": "https://engineering.case.edu/sites/default/files/99.mat"
+  },
+  {
+    "source_id": "100",
+    "sha256": "88a5990cb541320e91505a1d72139e1993500ffe6e292a451011667f4138ca78",
+    "bytes": 7770624,
+    "url": "https://engineering.case.edu/sites/default/files/100.mat"
+  },
+  {
+    "source_id": "109",
+    "sha256": "daddef5f784879becdf8fefbe2453f11c3cfc8d061a2a671da2f546d1bb48460",
+    "bytes": 3903344,
+    "url": "https://engineering.case.edu/sites/default/files/109.mat"
+  },
+  {
+    "source_id": "122",
+    "sha256": "f392129bf3b43360b964d4e5b3479d0797d1647af8359934b0f56b9abab4739a",
+    "bytes": 3916160,
+    "url": "https://engineering.case.edu/sites/default/files/122.mat"
+  },
+  {
+    "source_id": "135",
+    "sha256": "5a1c3ceec1f2b58af9e01051e425aa9d31dd018f58a8d31cda25bbdb1ac6dca9",
+    "bytes": 3896944,
+    "url": "https://engineering.case.edu/sites/default/files/135.mat"
+  },
+  {
+    "source_id": "110",
+    "sha256": "9e2bc579af6f4e6d9d26bf63b7ed84ecba7775740d56a3737cc8f04f73c22d1a",
+    "bytes": 7779920,
+    "url": "https://engineering.case.edu/sites/default/files/110.mat"
+  },
+  {
+    "source_id": "123",
+    "sha256": "a1932ec4bad2460238088ca523fdcec6498e562e91f86255863d3987d9fcd558",
+    "bytes": 7798480,
+    "url": "https://engineering.case.edu/sites/default/files/123.mat"
+  },
+  {
+    "source_id": "136",
+    "sha256": "37f259eebbc92afa8bd1b445d02af14e83608a48cd7a3cf5c323515ddc2d0f24",
+    "bytes": 7789200,
+    "url": "https://engineering.case.edu/sites/default/files/136.mat"
+  },
+  {
+    "source_id": "111",
+    "sha256": "a2e64a397a990efb91ba55252a84796f755bda3eb097c4b47cc0730a08dab309",
+    "bytes": 7770624,
+    "url": "https://engineering.case.edu/sites/default/files/111.mat"
+  },
+  {
+    "source_id": "124",
+    "sha256": "88719243f1b7dbe795c108acaf67ca0115c51517ac35a3fe3460eb07917b2a9a",
+    "bytes": 7789200,
+    "url": "https://engineering.case.edu/sites/default/files/124.mat"
+  },
+  {
+    "source_id": "137",
+    "sha256": "a81b621153e426aa32848be8157c42bcd81065a28ac7655a9a6597f3889fa3ef",
+    "bytes": 7789200,
+    "url": "https://engineering.case.edu/sites/default/files/137.mat"
+  },
+  {
+    "source_id": "112",
+    "sha256": "1775db11999f268c6ccf04b3ee19857f90a3636f4a582f1abd9a627f991e72d4",
+    "bytes": 7770624,
+    "url": "https://engineering.case.edu/sites/default/files/112.mat"
+  },
+  {
+    "source_id": "125",
+    "sha256": "2607d0c291ed9a6138aed3eed7015e133f1cf866ac5cdf2251921f08d058f362",
+    "bytes": 7817056,
+    "url": "https://engineering.case.edu/sites/default/files/125.mat"
+  },
+  {
+    "source_id": "138",
+    "sha256": "b43eeb67badeb129047ddd3658bf673815dc4bd445facb4217eb04653bb2e11d",
+    "bytes": 7807760,
+    "url": "https://engineering.case.edu/sites/default/files/138.mat"
+  },
+  {
+    "source_id": "174",
+    "sha256": "ca7113a900d9217aa5632e0dad4f8791caed4d314321daa011719e1bc99f3026",
+    "bytes": 1020944,
+    "url": "https://engineering.case.edu/sites/default/files/174.mat"
+  },
+  {
+    "source_id": "189",
+    "sha256": "6fd84310f781e1ab54a9a746b8626c73a863f2b02cea4c86229ca2444cb20a9a",
+    "bytes": 3986672,
+    "url": "https://engineering.case.edu/sites/default/files/189.mat"
+  },
+  {
+    "source_id": "201",
+    "sha256": "6c27615a61f19f05f65cf2cc2aa4bca5bda051c9d93a708d0ee8baf5138834fa",
+    "bytes": 3922576,
+    "url": "https://engineering.case.edu/sites/default/files/201.mat"
+  },
+  {
+    "source_id": "175",
+    "sha256": "18302e96425ad163db699da3a2ca63d8f6ef4dfc99172e97ab21a8a77a83ac17",
+    "bytes": 17849704,
+    "url": "https://engineering.case.edu/sites/default/files/175.mat"
+  },
+  {
+    "source_id": "190",
+    "sha256": "ae5fb00ce1eeefa5e21013197b186c0496f52820bdff00b385c58dfcb64a5b2f",
+    "bytes": 7779920,
+    "url": "https://engineering.case.edu/sites/default/files/190.mat"
+  },
+  {
+    "source_id": "202",
+    "sha256": "16f1a7eadbd6703a7a1ab1a32f8d7b97b6b85c1b31b1e760c123a9e175d8ae63",
+    "bytes": 7752064,
+    "url": "https://engineering.case.edu/sites/default/files/202.mat"
+  },
+  {
+    "source_id": "176",
+    "sha256": "569c7b292018e7e88cf4b375b091433c7566b9503545188979e93f6428427247",
+    "bytes": 7807760,
+    "url": "https://engineering.case.edu/sites/default/files/176.mat"
+  },
+  {
+    "source_id": "191",
+    "sha256": "bb39df077745821a3917e432ab1bc2f5d7c4e01a6e2338d1271b6994ec68dc7f",
+    "bytes": 7798480,
+    "url": "https://engineering.case.edu/sites/default/files/191.mat"
+  },
+  {
+    "source_id": "203",
+    "sha256": "3cad2848f4c96cde04fc06ca0f541ad663298ecb50eb7fc74e25b72ab29e1c5a",
+    "bytes": 7789200,
+    "url": "https://engineering.case.edu/sites/default/files/203.mat"
+  },
+  {
+    "source_id": "177",
+    "sha256": "5cffc5aa2b1e5cc65a97ebcfaa369b886ad8db8b8840e0e0095e97b8b9be4c16",
+    "bytes": 7761344,
+    "url": "https://engineering.case.edu/sites/default/files/177.mat"
+  },
+  {
+    "source_id": "192",
+    "sha256": "099b7f3399d0ea81aedfab20667a9517059441c10f2a9d52130687cc9643e2c7",
+    "bytes": 7789200,
+    "url": "https://engineering.case.edu/sites/default/files/192.mat"
+  },
+  {
+    "source_id": "204",
+    "sha256": "f3b1736698a580c2ea44cce78045833a9e76476d9153da8af5275c2e30e38a10",
+    "bytes": 7817056,
+    "url": "https://engineering.case.edu/sites/default/files/204.mat"
+  },
+  {
+    "source_id": "213",
+    "sha256": "6afb81f36a9efcdd370a52166d71c13cb42278c7de22752c81d4b2a22fa133f0",
+    "bytes": 3909760,
+    "url": "https://engineering.case.edu/sites/default/files/213.mat"
+  },
+  {
+    "source_id": "226",
+    "sha256": "fc78f08085760f2e17bcf7efe486b3a278e108093cd184acf278daecad6765e4",
+    "bytes": 3903344,
+    "url": "https://engineering.case.edu/sites/default/files/226.mat"
+  },
+  {
+    "source_id": "238",
+    "sha256": "63209a4057f199beb42beedf5b4481987fdb3ac746c46777dd385d689bc481df",
+    "bytes": 3941808,
+    "url": "https://engineering.case.edu/sites/default/files/238.mat"
+  },
+  {
+    "source_id": "214",
+    "sha256": "a8fe29f358b7f9c140f38e0cd7fbafdd7441c44e30a5b704ecb9be64cbb841ed",
+    "bytes": 7761344,
+    "url": "https://engineering.case.edu/sites/default/files/214.mat"
+  },
+  {
+    "source_id": "227",
+    "sha256": "c5c7aa64243ecd1428999aae4be29ba5d4de9235fee9731352c6cce7de604675",
+    "bytes": 7789200,
+    "url": "https://engineering.case.edu/sites/default/files/227.mat"
+  },
+  {
+    "source_id": "239",
+    "sha256": "4ba7dc55258359577a68f6de5c0ff6675776d2b2c30d691dd4d71640e34834af",
+    "bytes": 7826336,
+    "url": "https://engineering.case.edu/sites/default/files/239.mat"
+  },
+  {
+    "source_id": "215",
+    "sha256": "1e3d65088782a29aa70004896db4b9836499dd12edd3c58fb496f4befca6f746",
+    "bytes": 7863472,
+    "url": "https://engineering.case.edu/sites/default/files/215.mat"
+  },
+  {
+    "source_id": "228",
+    "sha256": "ea819eb0404f76ccdbe6074463469bda8fbbe04b7c0c75cf1443d2b5ac3484f6",
+    "bytes": 7798480,
+    "url": "https://engineering.case.edu/sites/default/files/228.mat"
+  },
+  {
+    "source_id": "240",
+    "sha256": "c5d8b4db09880b660da88865fff0e81afef0f5ad68bdf0ad7b75c722ae3e7e1c",
+    "bytes": 7807760,
+    "url": "https://engineering.case.edu/sites/default/files/240.mat"
+  },
+  {
+    "source_id": "217",
+    "sha256": "fb5b067c04b4c8449cbdd4ac4e376d7eb0804b9203efcab513e42aaf2f6a2cf7",
+    "bytes": 15689680,
+    "url": "https://engineering.case.edu/sites/default/files/217.mat"
+  },
+  {
+    "source_id": "229",
+    "sha256": "4fc20e3eeef375dc1a8ac577f04b4b0e0fa9e319ec51a61f7a02e756b0069499",
+    "bytes": 7789200,
+    "url": "https://engineering.case.edu/sites/default/files/229.mat"
+  },
+  {
+    "source_id": "241",
+    "sha256": "cb64eed96d401837c25df63598b7d1a00868368e1ed503a8dcef1e5226ec9caa",
+    "bytes": 7826336,
+    "url": "https://engineering.case.edu/sites/default/files/241.mat"
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "missing_model_exceptions": 0,
+  "info_messages": [
+    "No trained model found. Run: python scripts/run_all.py --config configs/quick.yaml --download"
+  ]
+}

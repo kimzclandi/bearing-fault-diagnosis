@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "source_files": 40,
+  "windows": 995,
+  "prediction_tables_checked": 171,
+  "checks": [
+    "raw checksums",
+    "file-disjoint conditions",
+    "sample identity",
+    "recomputed metrics",
+    "probability sums",
+    "training-only normalization",
+    "health reference threshold"
+  ]
+}

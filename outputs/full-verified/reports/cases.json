@@ -1,0 +1,48 @@
+[
+  {
+    "kind": "success",
+    "available": true,
+    "sample_id": "217:45056",
+    "true": "inner",
+    "predicted": "inner",
+    "confidence": 0.9999919,
+    "physics_features": {
+      "physics_FTF_h1": 0.02559202681682124,
+      "physics_FTF_h2": 0.10553510502350731,
+      "physics_FTF_h3": 0.11001514039291557,
+      "physics_BPFO_h1": 0.04002711437931799,
+      "physics_BPFO_h2": 0.012731426373899377,
+      "physics_BPFO_h3": 0.08023770644166257,
+      "physics_BPFI_h1": 0.06701792208580912,
+      "physics_BPFI_h2": 0.08038447728822304,
+      "physics_BPFI_h3": 0.0014890402583489465,
+      "physics_BSF_h1": 0.08937326525076414,
+      "physics_BSF_h2": 0.014726607111100258,
+      "physics_BSF_h3": 0.009982004424919788
+    },
+    "interpretation": "Gradient measures local logit sensitivity, not causal fault evidence. Frequency peaks require speed and resonance assumptions."
+  },
+  {
+    "kind": "failure",
+    "available": true,
+    "sample_id": "204:20480",
+    "true": "outer",
+    "predicted": "ball",
+    "confidence": 0.95433617,
+    "physics_features": {
+      "physics_FTF_h1": 0.0559883881797939,
+      "physics_FTF_h2": 0.054283990968876025,
+      "physics_FTF_h3": 0.07408078503345941,
+      "physics_BPFO_h1": 0.03882554379152037,
+      "physics_BPFO_h2": 0.016951173400966735,
+      "physics_BPFO_h3": 0.02338093793301803,
+      "physics_BPFI_h1": 0.04744824679214272,
+      "physics_BPFI_h2": 0.015412348036117664,
+      "physics_BPFI_h3": 0.01538446094980014,
+      "physics_BSF_h1": 0.028712550152893927,
+      "physics_BSF_h2": 0.017174574178902148,
+      "physics_BSF_h3": 0.035433258948466474
+    },
+    "interpretation": "Gradient measures local logit sensitivity, not causal fault evidence. Frequency peaks require speed and resonance assumptions."
+  }
+]

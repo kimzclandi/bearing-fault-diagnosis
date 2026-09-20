@@ -1,0 +1,52 @@
+[
+  {
+    "initial": "quick-real-v2",
+    "repeat": "quick-final",
+    "max_confidence_difference": 4.440892098500626e-16,
+    "differences": [
+      {
+        "table": "robust_rf_42_noise_10_103.csv",
+        "samples": [
+          "204:73728"
+        ],
+        "previous": [
+          2
+        ],
+        "repeat": [
+          3
+        ],
+        "previous_confidence": [
+          0.4791666666666666
+        ],
+        "repeat_confidence": [
+          0.4791666666666667
+        ]
+      }
+    ]
+  },
+  {
+    "initial": "full-real",
+    "repeat": "full-final",
+    "max_confidence_difference": 4.440892098500626e-16,
+    "differences": [
+      {
+        "table": "robust_rf_without_physics_42_noise_0_101.csv",
+        "samples": [
+          "217:110592"
+        ],
+        "previous": [
+          3
+        ],
+        "repeat": [
+          1
+        ],
+        "previous_confidence": [
+          0.4656111111111111
+        ],
+        "repeat_confidence": [
+          0.4656111111111111
+        ]
+      }
+    ]
+  }
+]

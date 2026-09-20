@@ -1,0 +1,42 @@
+[
+  {
+    "stage": "baseline",
+    "status": "passed",
+    "seconds": 0.16403579199686646
+  },
+  {
+    "stage": "deep",
+    "status": "passed",
+    "seconds": 1.2224080830055755
+  },
+  {
+    "stage": "evaluate",
+    "status": "passed",
+    "seconds": 0.4532173750048969
+  },
+  {
+    "stage": "explain",
+    "status": "passed",
+    "seconds": 0.5193159169866703
+  },
+  {
+    "stage": "health",
+    "status": "passed",
+    "seconds": 0.23429620900424197
+  },
+  {
+    "stage": "prepare",
+    "status": "passed",
+    "seconds": 1.803791792015545
+  },
+  {
+    "stage": "report",
+    "status": "passed",
+    "seconds": 0.004963125014910474
+  },
+  {
+    "stage": "robustness",
+    "status": "passed",
+    "seconds": 6.660958207998192
+  }
+]

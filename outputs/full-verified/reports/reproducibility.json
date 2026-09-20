@@ -1,0 +1,9 @@
+{
+  "status": "passed",
+  "prediction_tables_recomputed": 171,
+  "discrete_predictions": "exact match",
+  "max_confidence_difference": 2.980194091506405e-08,
+  "probability_atol": 1e-07,
+  "probability_rtol": 1e-06,
+  "scope": "same-machine re-inference of all clean and perturbed test windows"
+}
