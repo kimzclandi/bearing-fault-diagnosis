@@ -6,6 +6,20 @@
 
 **快速配置与完整配置已实际完成 CPU 训练和评估。健康趋势模块描述记录内的健康偏离变化，不是自然退化预测或剩余寿命（RUL）预测。**
 
+## 从这里开始
+
+- **先看已保存结果：**[完整实验报告](outputs/full-verified/reports/experiment.md)、[逐种子指标](outputs/full-verified/metrics/comparison.csv)、[历史独立复核记录](outputs/full-verified/reports/verification.json)。阅读这些证据不需要下载数据或训练。
+- **定位实现：**[数据处理](src/bearing_diagnosis/data.py)、[物理特征](src/bearing_diagnosis/physics.py)、[模型](src/bearing_diagnosis/models.py)、[Demo](app/streamlit_app.py)。
+- **运行入口：**先按下方安装，再运行 `python -m pytest -q` 与 `python .github/scripts/check_readmes.py`。这是代码与导航检查，不会重跑完整模型实验。
+- **复现完整流程：**下方快速/完整命令会下载真实数据并训练模型；普通 clone 不带原始数据、权重或缓存。`verify_run.py` 需要这些完整本地资产，不能只凭仓库中的 CSV/报告完成全部验收，也不要把它指向冻结输出以覆盖历史复核文件。
+
+```bash
+git clone https://github.com/kimzclandi/bearing-fault-diagnosis.git
+cd bearing-fault-diagnosis
+```
+
+本项目由下列[合作成员](#合作成员)参与；仓库当前只记录成员名单，未据此推定个人独立承担的模块或比例。
+
 ## 处理流程
 
 ```text
