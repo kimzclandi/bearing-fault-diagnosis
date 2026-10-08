@@ -10,8 +10,8 @@
 
 - **先看已保存结果：**[完整实验报告](outputs/full-verified/reports/experiment.md)、[逐种子指标](outputs/full-verified/metrics/comparison.csv)、[历史独立复核记录](outputs/full-verified/reports/verification.json)。阅读这些证据不需要下载数据或训练。
 - **定位实现：**[数据处理](src/bearing_diagnosis/data.py)、[物理特征](src/bearing_diagnosis/physics.py)、[模型](src/bearing_diagnosis/models.py)、[Demo](app/streamlit_app.py)。
-- **运行入口：**先按下方安装，再运行 `python -m pytest -q` 与 `python .github/scripts/check_readmes.py`。这是代码与导航检查，不会重跑完整模型实验。
-- **复现完整流程：**下方快速/完整命令会下载真实数据并训练模型；普通 clone 不带原始数据、权重或缓存。`verify_run.py` 需要这些完整本地资产，不能只凭仓库中的 CSV/报告完成全部验收，也不要把它指向冻结输出以覆盖历史复核文件。
+- **运行入口：** 先按下方安装，再运行 `python -m pytest -q` 与 `python .github/scripts/check_readmes.py`。这是代码与导航检查，不会重跑完整模型实验。
+- **复现完整流程：** 下方快速/完整命令会下载真实数据并训练模型；普通 clone 不带原始数据、权重或缓存。`verify_run.py` 需要这些完整本地资产，不能只凭仓库中的 CSV/报告完成全部验收，也不要把它指向冻结输出以覆盖历史复核文件。
 
 ```bash
 git clone https://github.com/kimzclandi/bearing-fault-diagnosis.git
