@@ -6,6 +6,20 @@ A Python project using actual CWRU vibration recordings, covering data acquisiti
 
 **Both quick and full configurations have completed actual CPU training and evaluation. Health trends describe within-record changes in deviation, not natural degradation or remaining useful life (RUL).**
 
+## Start here
+
+- **Review saved results:** [full experiment report](outputs/full-verified/reports/experiment.md), [per-seed metrics](outputs/full-verified/metrics/comparison.csv), and [historical independent verification](outputs/full-verified/reports/verification.json). Reading them requires no data download or training.
+- **Find the implementation:** [data processing](src/bearing_diagnosis/data.py), [physical features](src/bearing_diagnosis/physics.py), [models](src/bearing_diagnosis/models.py), and [Demo](app/streamlit_app.py).
+- **Check the source checkout:** install the dependencies below, then run `python -m pytest -q` and `python .github/scripts/check_readmes.py`. These check code and navigation; they do not replay the complete model experiment.
+- **Reproduce the full pipeline:** the quick/full commands below download real data and train models. A normal clone excludes raw data, weights and caches. `verify_run.py` requires those complete local assets; the tracked CSVs/reports alone cannot satisfy every check. Do not point it at frozen outputs and overwrite the historical verification file.
+
+```bash
+git clone https://github.com/kimzclandi/bearing-fault-diagnosis.git
+cd bearing-fault-diagnosis
+```
+
+The [collaborators](#collaborators) below are listed without an asserted individual module assignment or contribution percentage.
+
 ## Processing pipeline
 
 ```text
